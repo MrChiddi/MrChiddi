@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrChiddi
--   I'm very very new to all this
+-    I'm very very new to all this
 - 👀 I’m interested in coding/programming
 - 🌱 I’m currently learning HTML, CSS, and Java
 
